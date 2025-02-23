@@ -1,0 +1,7 @@
+# How To Use GitHub —— 如何使用GitHub
+
+**注意**：本文全文采用中文撰写，以帮助更多的中国同胞更好地了解和使用GitHub
+
+## 目录
+
+1. [git的使用](./git_about/README.md)
